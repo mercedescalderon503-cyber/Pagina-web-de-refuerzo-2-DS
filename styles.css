@@ -2,7 +2,7 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-background-image: url('img/Cuidad.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
+background-image: url('img/zorro-principito.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
 con la ubicación de tu imagen */
 background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
 background-position: center; /* Centra la imagen en el encabezado */
@@ -30,7 +30,7 @@ font-size: 25px; /* Tamaño de fuente del texto del encabezado */
 
 /* Establece el fondo transparente para el menú */
 nav {
-background-color: rgba(98, 29, 115, 0.728);
+background-color: rgba(255, 255, 255, 0);
 padding: 20px;
 position: fixed; /* Posiciona el menú en la parte superior de la página */
 top: 0;
@@ -62,7 +62,7 @@ font-weight: bold;
 
 /* Cambia el color del enlace cuando se pasa el mouse por encima */
 a:hover {
-color: #7e1457; /* Cambia el color al pasar el mouse por encima */
+color: #ff9900; /* Cambia el color al pasar el mouse por encima */
 }
 
 /*CONFIGURACION DEL BODY*/
@@ -87,7 +87,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
-background-color: rgba(123, 21, 57, 0.766); /* Cambia el color de fondo a azul */
+background-color: rgb(5,43,150); /* Cambia el color de fondo a azul */
 padding: 10rem;
 color: #fffdfd;
 color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
